@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a MERN stack developer and a startup enthusiast.<br><br>👯 I’m looking to collaborate on Web Development Projects and hackathons.<br><br>🌱 I’m currently learning Devops and consistently improving my problem solving skills.<br><br>💬 Talk to me about startups, Entrepreneurship, Projects, etc.<br><br>⚡ Fun fact: My dream job as a child was to be a pilot.<br><br>😄 Pronouns: He/His
+🔭 I’m a full stack developer and a startup enthusiast.<br><br>👯 I’m looking to collaborate on RAG projects and hackathons.<br><br>🌱 I’m currently learning Devops and consistently improving my problem solving skills.<br><br>💬 Talk to me about startups, Entrepreneurship, Projects, etc.<br><br>⚡ Fun fact: My dream job as a child was to be a pilot.<br><br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
